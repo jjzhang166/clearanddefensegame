@@ -1,0 +1,14 @@
+﻿  stdafx.cpp
+  王者消消消.cpp
+f:\visual-studio-liushiyin\王者消消消\王者消消消\other.h(72): warning C4091: “typedef ”: 没有声明变量时忽略“ShootingStar”的左侧
+  cMyTimer.cpp
+  cMonster.cpp
+  cDefense.cpp
+  cClearGame.cpp
+f:\visual-studio-liushiyin\王者消消消\王者消消消\other.h(72): warning C4091: “typedef ”: 没有声明变量时忽略“ShootingStar”的左侧
+f:\visual-studio-liushiyin\王者消消消\王者消消消\ccleargame.cpp(26): warning C4553: “==”: 运算符不起任何作用；是否是有意使用“=”的?
+f:\visual-studio-liushiyin\王者消消消\王者消消消\ccleargame.cpp(1617): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  cBullet.cpp
+  正在生成代码...
+  王者消消消.vcxproj -> F:\Visual-Studio-liushiyin\王者消消消\Debug\王者消消消.exe
+  王者消消消.vcxproj -> F:\Visual-Studio-liushiyin\王者消消消\Debug\王者消消消.pdb (Partial PDB)
